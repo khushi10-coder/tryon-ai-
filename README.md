@@ -1,6 +1,7 @@
 Try On AI - Virtual Fashion Try-On Platform
 
-![Try On AI Banner](![c7b72c67-56d3-4ca2-9165-89841f06bac1](https://github.com/user-attachments/assets/5ac29def-da97-4887-883b-ec13c467586d)
+![Try On AI Banner](https://github.com/user-attachments/assets/4e40c552-2f75-4dd9-8fa5-2e6519eac76a)
+
 
 
 > AI-powered virtual try-on platform that lets you visualize outfits, get personalized styling advice, and shop directly from Indian e-commerce sites.
