@@ -1,0 +1,7 @@
+{
+  "name": "Try On AI",
+  "description": "An AI-powered virtual fashion try-on platform that lets you visualize outfits, get personalized styling advice, and shop the look on Indian e-commerce sites.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
