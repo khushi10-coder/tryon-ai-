@@ -8,7 +8,7 @@ import ShopSection from './components/ShopSection';
 import Chatbot from './components/Chatbot';
 import Gallery from './components/Gallery';
 import { Sparkles, History, ArrowLeft, Shirt, PlusCircle, CheckCircle, ArrowRight } from 'lucide-react';
-//Added
+
 const App: React.FC = () => {
   const [step, setStep] = useState<AppStep>(AppStep.UPLOAD);
   const [userImage, setUserImage] = useState<string | null>(null);
